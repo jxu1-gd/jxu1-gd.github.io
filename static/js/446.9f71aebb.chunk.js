@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktfin_ui_project_template=self.webpackChunktfin_ui_project_template||[]).push([[446],{481:function(t,e,u){u.r(e);var n=u(442),c=u(184);e.default=function(){return(0,c.jsx)(n.Z,{})}}}]);
+//# sourceMappingURL=446.9f71aebb.chunk.js.map
