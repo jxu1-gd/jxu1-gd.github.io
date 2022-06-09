@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.e0555735.js",
+    "main.js": "/static/js/main.eb49bf6b.js",
     "ChatModule.js": "/ChatModuleEntry.js",
-    "static/css/514.8d2393be.chunk.css": "/static/css/514.8d2393be.chunk.css",
+    "static/css/514.33194f00.chunk.css": "/static/css/514.33194f00.chunk.css",
     "static/js/514.d9483c4a.chunk.js": "/static/js/514.d9483c4a.chunk.js",
     "static/js/791.94c51bef.chunk.js": "/static/js/791.94c51bef.chunk.js",
-    "static/css/446.8691a94f.chunk.css": "/static/css/446.8691a94f.chunk.css",
+    "static/css/446.1e36260b.chunk.css": "/static/css/446.1e36260b.chunk.css",
     "static/js/446.9f71aebb.chunk.js": "/static/js/446.9f71aebb.chunk.js",
     "static/js/787.f38e7388.chunk.js": "/static/js/787.f38e7388.chunk.js",
     "static/js/502.25207bb1.chunk.js": "/static/js/502.25207bb1.chunk.js",
@@ -16,12 +16,12 @@
     "static/media/Averta-RegularItalic.otf": "/static/media/Averta-RegularItalic.efac9b72ac0765ade034.otf",
     "static/media/Averta-SemiboldItalic.otf": "/static/media/Averta-SemiboldItalic.ca21cc0fd2d0f4d17c68.otf",
     "index.html": "/index.html",
-    "main.e0555735.js.map": "/static/js/main.e0555735.js.map",
+    "main.eb49bf6b.js.map": "/static/js/main.eb49bf6b.js.map",
     "ChatModuleEntry.js.map": "/ChatModuleEntry.js.map",
-    "514.8d2393be.chunk.css.map": "/static/css/514.8d2393be.chunk.css.map",
+    "514.33194f00.chunk.css.map": "/static/css/514.33194f00.chunk.css.map",
     "514.d9483c4a.chunk.js.map": "/static/js/514.d9483c4a.chunk.js.map",
     "791.94c51bef.chunk.js.map": "/static/js/791.94c51bef.chunk.js.map",
-    "446.8691a94f.chunk.css.map": "/static/css/446.8691a94f.chunk.css.map",
+    "446.1e36260b.chunk.css.map": "/static/css/446.1e36260b.chunk.css.map",
     "446.9f71aebb.chunk.js.map": "/static/js/446.9f71aebb.chunk.js.map",
     "787.f38e7388.chunk.js.map": "/static/js/787.f38e7388.chunk.js.map",
     "502.25207bb1.chunk.js.map": "/static/js/502.25207bb1.chunk.js.map",
@@ -29,6 +29,6 @@
     "573.00b76def.chunk.js.map": "/static/js/573.00b76def.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e0555735.js"
+    "static/js/main.eb49bf6b.js"
   ]
 }
