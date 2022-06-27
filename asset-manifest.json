@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.318834cf.js",
+    "main.js": "/static/js/main.40cdea83.js",
     "ChatModule.js": "/ChatModuleEntry.js",
     "static/css/614.27ef6818.chunk.css": "/static/css/614.27ef6818.chunk.css",
-    "static/js/614.00d8e3f3.chunk.js": "/static/js/614.00d8e3f3.chunk.js",
+    "static/js/614.9faf6c7e.chunk.js": "/static/js/614.9faf6c7e.chunk.js",
     "static/js/791.fb4f0ad6.chunk.js": "/static/js/791.fb4f0ad6.chunk.js",
     "static/css/404.23ed9dc0.chunk.css": "/static/css/404.23ed9dc0.chunk.css",
     "static/js/404.36306521.chunk.js": "/static/js/404.36306521.chunk.js",
@@ -17,10 +17,10 @@
     "static/media/Averta-RegularItalic.otf": "/static/media/Averta-RegularItalic.efac9b72ac0765ade034.otf",
     "static/media/Averta-SemiboldItalic.otf": "/static/media/Averta-SemiboldItalic.ca21cc0fd2d0f4d17c68.otf",
     "index.html": "/index.html",
-    "main.318834cf.js.map": "/static/js/main.318834cf.js.map",
+    "main.40cdea83.js.map": "/static/js/main.40cdea83.js.map",
     "ChatModuleEntry.js.map": "/ChatModuleEntry.js.map",
     "614.27ef6818.chunk.css.map": "/static/css/614.27ef6818.chunk.css.map",
-    "614.00d8e3f3.chunk.js.map": "/static/js/614.00d8e3f3.chunk.js.map",
+    "614.9faf6c7e.chunk.js.map": "/static/js/614.9faf6c7e.chunk.js.map",
     "791.fb4f0ad6.chunk.js.map": "/static/js/791.fb4f0ad6.chunk.js.map",
     "404.23ed9dc0.chunk.css.map": "/static/css/404.23ed9dc0.chunk.css.map",
     "404.36306521.chunk.js.map": "/static/js/404.36306521.chunk.js.map",
@@ -31,6 +31,6 @@
     "140.0e162a97.chunk.js.map": "/static/js/140.0e162a97.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.318834cf.js"
+    "static/js/main.40cdea83.js"
   ]
 }
